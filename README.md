@@ -30,5 +30,7 @@
  <p><b>Sprite Renderer :</b>https://docs.unity3d.com/es/current/Manual/class-SpriteRenderer.html</p>
  <p><b>Animator :</b>https://docs.unity3d.com/Manual/class-Animator.html?_ga=2.4363251.1591272476.1508782176-1976787986.1507378551</p>
  <p><b>Animations :</b>https://docs.unity3d.com/Manual/AnimationClips.html</p>
+ <br/>
+ <h1>Tutorial</h1>
  
-  
+<a>http://www.youtube.com/watch?feature=player_embedded&v=sT5sBkkmuaQ&list</a>
