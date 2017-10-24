@@ -1,6 +1,7 @@
 # ProyectoUnity
 
-<h1 style="text-align:center;"> JUMPING GUY</h1>
+![<h1 style="text-align:center;"> JUMPING GUY</h1>](https://lh3.googleusercontent.com/gmT-kbhLxaM-FBZV4_053N1cxr8cJTmBIpQ9J0Nu7OItWwdVww6P4C1X8zk7cb4u634=h900)
+
 <b><p>Proyecto 2D para PMDM con unity </p></b>
 
 <ol>
